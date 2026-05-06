@@ -18,6 +18,6 @@ This project analyzes order fulfillment performance using the Brazilian Olist e-
 - Scale operations during peak periods
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 

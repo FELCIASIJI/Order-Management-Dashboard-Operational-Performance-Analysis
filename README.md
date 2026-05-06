@@ -24,7 +24,7 @@ This project analyzes order fulfillment performance using the Brazilian Olist e-
 ## Project Structure
 order-management-dashboard/
 │
-├── README.md
+```├── README.md```
 ├── order-management-dashboard-report.pdf
 ├── order-dashboard.twb
 │
